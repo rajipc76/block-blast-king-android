@@ -1,0 +1,75 @@
+{
+  "id": "/",
+  "name": "Block Blast King",
+  "short_name": "Blast King",
+  "description": "Block Blast King is a relaxing and challenging block puzzle game.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020b2e",
+  "theme_color": "#020b2e",
+  "categories": [
+    "games",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Play Game",
+      "url": "./",
+      "description": "Start playing Block Blast King"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://block-blast-king.netlify.app/home.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Home page"
+    },
+    {
+      "src": "https://block-blast-king.netlify.app/home-setting.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Home settings"
+    },
+    {
+      "src": "https://block-blast-king.netlify.app/game.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Game screen"
+    },
+    {
+      "src": "https://block-blast-king.netlify.app/game-setting.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Game settings"
+    }
+  ]
+}
